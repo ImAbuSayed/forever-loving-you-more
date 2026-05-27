@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/forever-loving-you-more/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Forever Loving You More](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/forever-loving-you-more/) |
+| **Get License** | [Official Music Licensing for Forever Loving You More](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/forever-loving-you-more/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The shadows fall and the embers fade
+> But I'm losing myself in the look you made
+> We got nothing but time and the wooden floor
+> And I'll be forever loving you more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
